@@ -10,9 +10,9 @@ A proposta desse projeto e de criar um Landing Page com os links de todas as red
 
 ### Coloque traje e vamos la conferir como ficou
 
-[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](link)
+[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/link_bio-ffsti/)
 
-[![web 1](link img )](link)
+[![web 1](https://raw.githubusercontent.com/Thur17/link_bio-ffsti/master/assets/img/Modeo!.png)](https://thur17.github.io/link_bio-ffsti/)
 
 ## Tecnologias utilizadas
 
